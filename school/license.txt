@@ -1,0 +1,11 @@
+Model Information:
+* title:	School Anime
+* source:	https://sketchfab.com/3d-models/school-anime-e110fb9da7404951889d750fce0b11ea
+* author:	AnixMoon (https://sketchfab.com/ani111)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "School Anime" (https://sketchfab.com/3d-models/school-anime-e110fb9da7404951889d750fce0b11ea) by AnixMoon (https://sketchfab.com/ani111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
